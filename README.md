@@ -1,5 +1,4 @@
-# 🛡️ YAPAY KALKAN (Artificial Shield)
-### AI Destekli Akıllı Afet Yönetim ve Karar Destek Sistemi
+# AI Destekli Akıllı Afet Yönetim ve Karar Destek Sistemi
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Flask](https://img.shields.io/badge/Flask-Backend-green)
