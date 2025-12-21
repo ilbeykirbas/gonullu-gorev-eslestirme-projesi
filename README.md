@@ -5,7 +5,7 @@
 ![AI](https://img.shields.io/badge/AI-NLP%20%26%20Semantic%20Search-orange)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**Yapay Kalkan**, afet durumlarında sınırlı insan kaynağını en verimli şekilde yönetmek için geliştirilmiş yeni nesil bir yapay zeka platformudur. Geleneksel sistemlerin aksine, sadece kelime eşleşmesine bakmaz; gönüllülerin yeteneklerini **Doğal Dil İşleme (NLP)** ile analiz eder ve anlamsal olarak en uygun göreve atar.
+**Proje**, afet durumlarında sınırlı insan kaynağını en verimli şekilde yönetmek için geliştirilmiş yeni nesil bir yapay zeka platformudur. Geleneksel sistemlerin aksine, sadece kelime eşleşmesine bakmaz; gönüllülerin yeteneklerini **Doğal Dil İşleme (NLP)** ile analiz eder ve anlamsal olarak en uygun göreve atar.
 
 ---
 
@@ -13,7 +13,7 @@
 
 Afet anlarında binlerce gönüllü sisteme giriş yapar ("Doktorum", "İnşaatçıyım", "Elimden her iş gelir" vb.). Klasik veritabanı sorguları bu serbest metinleri doğru sınıflandıramaz.
 
-**Yapay Kalkan şunları yapar:**
+**Proje şunları yapar:**
 1.  **Anlar:** "Enkaz kaldırma" ile "Hilti kullanabilirim" arasındaki anlamsal bağı kurar.
 2.  **Hesaplar:** Gönüllünün olay yerine olan uzaklığını GPS verisiyle ölçer.
 3.  **Karar Verir:** Görevin hayati önemine (Zorluk Seviyesi) göre uzmanlığa mı yoksa hıza mı öncelik vereceğini dinamik olarak belirler.
@@ -91,4 +91,4 @@ Geliştirici: [Adınız Soyadınız]
 
 Kurum/Organizasyon: RSM (Resilience Shield Management)
 
-"Afet yönetiminde saniyeler hayat kurtarır, Yapay Kalkan doğru kaynağı saniyeler içinde doğru yere yönlendirir."
+"Afet yönetiminde saniyeler hayat kurtarır, proje doğru kaynağı saniyeler içinde doğru yere yönlendirir."
