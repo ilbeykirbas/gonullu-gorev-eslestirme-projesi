@@ -85,10 +85,3 @@ frontend.html: Kullanıcı Arayüzü (Bootstrap 5).
 requirements.txt: Gerekli Python kütüphaneleri.
 
 rsm_afet.db: SQLite veritabanı (Otomatik oluşur).
-
-## 🤝 Katkıda Bulunanlar
-Geliştirici: [Adınız Soyadınız]
-
-Kurum/Organizasyon: RSM (Resilience Shield Management)
-
-"Afet yönetiminde saniyeler hayat kurtarır, proje doğru kaynağı saniyeler içinde doğru yere yönlendirir."
