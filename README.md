@@ -89,4 +89,5 @@ rsm_afet.db: SQLite veritabanı (Otomatik oluşur).
 ## 🤝 Katkıda Bulunanlar 
 
 Geliştiriciler: İlbey Kırbaş ([@ilbeykirbas](https://github.com/ilbeykirbas)) - NLP Entegrasyonu/Backend
+
 Ahmet Selman Severge - Frontend
